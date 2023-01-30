@@ -4,7 +4,7 @@ import user from "../images/user.jpg";
 const ContactDetail = (props) => {
   const location = useLocation();
   const { contact } = location.state;
-  const { id, name, email } = contact;
+  const { name, email } = contact;
 
   return(
     <div className="main">

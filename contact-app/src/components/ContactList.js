@@ -10,7 +10,7 @@ const ContactList = (props) => {
 
   useEffect(() => {
     retrieveContacts();
-  }, [])
+  })
 
   const renderContactList = (searchTerm.length < 1 ? contacts : searchResults).map((contact) => {
     return(
