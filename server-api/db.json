@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "27137422-f3b4-40e1-9766-838595e9cc7b",
+      "name": "gg12",
+      "email": "gg@gmail.com"
+    },
+    {
+      "id": "c3e8ad7a-0fde-4325-8af1-f4c973991f0a",
+      "name": "Chin Siang",
+      "email": "chinsiang99@gmail.com"
+    },
+    {
+      "id": "f22a57f5-836a-403b-bb29-bd4415fa687f",
+      "name": "1234",
+      "email": "1234@gmail.com"
+    },
+    {
+      "id": "bbfdb81e-78a7-4bb9-9e24-231b564afdd4",
+      "name": "wow",
+      "email": "wow@gmail.com"
+    },
+    {
+      "id": "4dd0efa5-adf1-49a2-9d1c-633984925fc8",
+      "name": "gg",
+      "email": "gg123@gmail.com"
+    },
+    {
+      "id": "a22d842c-5772-480b-a9ab-15716e9f9d8e",
+      "name": "oktest",
+      "email": "oktest@gmail.com"
+    }
+  ]
+}
